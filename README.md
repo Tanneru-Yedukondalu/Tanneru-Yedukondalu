@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanneru-Yedukondalu
 - 👀 I’m interested in Programming,Games
 - 🌱 I’m currently learning Machine learning and Data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with a company ready to hire a Data scientist
 - 📫 How to reach me
 - https://github.com/Tanneru-Yedukondalu 
 - https://instagram.com/pandu_1514
