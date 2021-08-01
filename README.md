@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Tanneru Yedukondalu
+- 👋 Hi, I’m @Yedukondalu ,CSE btech student @iiitkalyani, West Bengal
 - 👀 I’m interested in Programming,Games
 - 🌱 I’m currently learning Machine learning and Data science
-- 💞️ I’m looking to collaborate with a company ready to hire a Data scientist
 - 📫 How to reach me
 - https://github.com/Tanneru-Yedukondalu 
 - https://instagram.com/pandu_1514
